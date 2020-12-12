@@ -10,3 +10,5 @@ Integrante:
 
 Informacion basica para ejecutar el programa:
 - Librerias: beautifulsoup4 y PIL
+
+La imagen debe estar en la misma carpeta que el programa
