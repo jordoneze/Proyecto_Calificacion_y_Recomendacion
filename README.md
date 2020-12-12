@@ -9,5 +9,4 @@ Integrante:
 1. Jenny Ximena Ordoñez Espinosa
 
 Informacion basica para ejecutar el programa:
-- No hubo uso de librerias.
-- El programa se maneja por medio de la consola.
+- Librerias: beautifulsoup4 y PIL
