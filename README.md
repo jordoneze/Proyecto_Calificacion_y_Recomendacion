@@ -3,7 +3,7 @@ Nombre del proyecto: Programa de calificación y recomendación a estudiantes qu
 
 Grupo #12
 
-Objetivo: Tener registro de las notas del estudiante y sus promedios, tambien permitirle administrar tareas
+Objetivo: Tener registro de las notas del estudiante y sus promedios
 
 Integrante:
 1. Jenny Ximena Ordoñez Espinosa
