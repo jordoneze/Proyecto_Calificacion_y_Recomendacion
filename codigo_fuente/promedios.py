@@ -375,7 +375,7 @@ def pantalla_principal(window, pruebainicses=False, nombreusu=""):
     texto.place(x=70, y=140)
     texto.configure(bg=_from_rgb((177, 178, 176)), width=100, anchor="w")
 
-    img = Image.open('promedy.gif')
+    img = Image.open('recursor\promedy.gif')
     image_logo = ImageTk.PhotoImage(img)
     widget = tk.Label(window, image=image_logo)
     widget.place(x=700, y=140) # La imagen no se ve puesto que se presenta un error al tenerla dentro de una funcion
