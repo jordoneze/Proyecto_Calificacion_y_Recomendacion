@@ -12,6 +12,8 @@ Informacion basica para ejecutar el programa:
 - Librerias: beautifulsoup4 y PIL
 
 La imagen debe estar en la misma carpeta que el programa
+
+
 ![Imagen 1](/images/1.png)
 ![Imagen 2](/images/2.png)
 ![Imagen 3](/images/3.png)
